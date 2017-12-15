@@ -1,6 +1,6 @@
 //Project A: Aicraft Navigation System
 //December 9,2017
-//Team Members: Vaibhav  and Kalpesh 
+
 
 
 //headers needed
